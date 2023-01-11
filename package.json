@@ -7,10 +7,14 @@
   "scripts": {
     "start": "node downloader.js"
   },
-  "keywords": ["scrapping", "DGT"],
+  "keywords": [
+    "scrapping",
+    "DGT"
+  ],
   "author": "Álvaro Lozano",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.2.2"
+    "axios": "^1.2.2",
+    "qs": "^6.11.0"
   }
 }

@@ -1,0 +1,782 @@
+[
+  {
+    "id": 495181,
+    "urlImagen": "/IMAGENES/09_MANIOBRAS/MARCHA_ATRAS/PONS271.jpg",
+    "idPreguntaCuest": 3100,
+    "enunciado": "Siempre que el recorrido hacia atrás no supere los 15 metros ni invada un cruce de vías, podrá circular marcha atrás...",
+    "respuestas": [
+      {
+        "id": 1467532,
+        "correcta": true,
+        "contenido": "como maniobra complementaria de la parada.",
+        "idPregunta": 495181
+      },
+      {
+        "id": 1467533,
+        "correcta": false,
+        "contenido": "en autovías y autopistas que discurran por poblado.",
+        "idPregunta": 495181
+      },
+      {
+        "id": 1467534,
+        "correcta": false,
+        "contenido": "cuando no sea posible cambiar de dirección o sentido de la marcha.",
+        "idPregunta": 495181
+      }
+    ]
+  },
+  {
+    "id": 495182,
+    "urlImagen": "/IMAGENES/04_CIRCULACION/AUTOVIA/FOTO2230.jpg",
+    "idPreguntaCuest": 272,
+    "enunciado": "Salvo que exista señal que lo prohíba, por los arcenes de las autovías se permite circular...",
+    "respuestas": [
+      {
+        "id": 1467535,
+        "correcta": true,
+        "contenido": "a conductores de bicicletas mayores de 14 años.",
+        "idPregunta": 495182
+      },
+      {
+        "id": 1467536,
+        "correcta": false,
+        "contenido": "a peatones.",
+        "idPregunta": 495182
+      },
+      {
+        "id": 1467537,
+        "correcta": false,
+        "contenido": "a vehículos de tracción animal.",
+        "idPregunta": 495182
+      }
+    ]
+  },
+  {
+    "id": 495183,
+    "urlImagen": "/IMAGENES/02_AGENTES/19273.jpg",
+    "idPreguntaCuest": 30376,
+    "enunciado": "Si un vehículo de la policía de tráfico se sitúa detrás de usted y enciende un dispositivo con una luz amarilla intermitente hacia delante, ¿qué debe hacer?",
+    "respuestas": [
+      {
+        "id": 1467538,
+        "correcta": false,
+        "contenido": "Detenerse en el lado izquierdo de la calzada, delante del vehículo policial.",
+        "idPregunta": 495183
+      },
+      {
+        "id": 1467539,
+        "correcta": true,
+        "contenido": "Detenerse y, en su caso, seguir las instrucciones del agente.",
+        "idPregunta": 495183
+      },
+      {
+        "id": 1467540,
+        "correcta": false,
+        "contenido": "Reducir la velocidad y apartarse a la derecha, para facilitar el adelantamiento.",
+        "idPregunta": 495183
+      }
+    ]
+  },
+  {
+    "id": 495184,
+    "urlImagen": "/IMAGENES/05_CONDUCTOR_FACTOR_HUMANO/CAPACIDADES/FOTO1742.jpg",
+    "idPreguntaCuest": 446,
+    "enunciado": "Un estado psicofísico inadecuado puede aumentar el tiempo de reacción, como si conducimos...",
+    "respuestas": [
+      {
+        "id": 1467541,
+        "correcta": false,
+        "contenido": "usando gafas graduadas.",
+        "idPregunta": 495184
+      },
+      {
+        "id": 1467542,
+        "correcta": false,
+        "contenido": "después de una comida ligera.",
+        "idPregunta": 495184
+      },
+      {
+        "id": 1467543,
+        "correcta": true,
+        "contenido": "después de una fuerte discusión.",
+        "idPregunta": 495184
+      }
+    ]
+  },
+  {
+    "id": 495185,
+    "urlImagen": "/IMAGENES/08_LUCES_Y_ADVERTENCIAS_OPTICAS/LUCES/0310050000376.jpg",
+    "idPreguntaCuest": 1605,
+    "enunciado": "Si circula por una vía interurbana insuficientemente iluminada a una velocidad inferior a 40 km/h., ¿qué luces deberá llevar encendidas?",
+    "respuestas": [
+      {
+        "id": 1467544,
+        "correcta": true,
+        "contenido": "Las luces de corto alcance, al menos.",
+        "idPregunta": 495185
+      },
+      {
+        "id": 1467545,
+        "correcta": false,
+        "contenido": "Las luces de largo alcance.",
+        "idPregunta": 495185
+      },
+      {
+        "id": 1467546,
+        "correcta": false,
+        "contenido": "La luces de posición solamente.",
+        "idPregunta": 495185
+      }
+    ]
+  },
+  {
+    "id": 495186,
+    "urlImagen": "/IMAGENES/07_FACTORES_CLIMATOLOGICOS_Y_AMBIENTALES/NIEVE/3562.jpg",
+    "idPreguntaCuest": 2124,
+    "enunciado": "Al estacionar un vehículo en pendiente ascendente, su conductor deberá...",
+    "respuestas": [
+      {
+        "id": 1467547,
+        "correcta": false,
+        "contenido": "apoyar una rueda delantera en el bordillo y orientarla hacia fuera de la calzada.",
+        "idPregunta": 495186
+      },
+      {
+        "id": 1467548,
+        "correcta": true,
+        "contenido": "dejar accionado el freno de estacionamiento.",
+        "idPregunta": 495186
+      },
+      {
+        "id": 1467549,
+        "correcta": false,
+        "contenido": "dejar seleccionada la marcha atrás.",
+        "idPregunta": 495186
+      }
+    ]
+  },
+  {
+    "id": 495187,
+    "urlImagen": "/IMAGENES/02_AGENTES/0203099100074.jpg",
+    "idPreguntaCuest": 1722,
+    "enunciado": "El alcohol puede detectarse en la sangre a partir de los 5 minutos de haberlo consumido, pero, ¿cuándo alcanza su máximo nivel (pico de alcoholemia)?",
+    "respuestas": [
+      {
+        "id": 1467550,
+        "correcta": true,
+        "contenido": "Entre los 30 y los 90 minutos después de haberlo consumido.",
+        "idPregunta": 495187
+      },
+      {
+        "id": 1467551,
+        "correcta": false,
+        "contenido": "Entre los 120 y los 130 minutos después de haberlo consumido.",
+        "idPregunta": 495187
+      },
+      {
+        "id": 1467552,
+        "correcta": false,
+        "contenido": "Entre las tres y las cuatro horas después de haberlo consumido.",
+        "idPregunta": 495187
+      }
+    ]
+  },
+  {
+    "id": 495188,
+    "urlImagen": "/IMAGENES/14_SENALES_EN_CIRCULACION/VERTICALES/02_PRIORIDAD/EH014.jpg",
+    "idPreguntaCuest": 2679,
+    "enunciado": "El conductor de un vehículo que se encuentra esta señal de frente, ¿tiene prioridad de paso en el próximo paso estrecho?",
+    "respuestas": [
+      {
+        "id": 1467553,
+        "correcta": false,
+        "contenido": "No; la señal concede prioridad al sentido contrario.",
+        "idPregunta": 495188
+      },
+      {
+        "id": 1467554,
+        "correcta": true,
+        "contenido": "Sí.",
+        "idPregunta": 495188
+      },
+      {
+        "id": 1467555,
+        "correcta": false,
+        "contenido": "Solo si su vehículo tiene mayores dificultades de maniobra.",
+        "idPregunta": 495188
+      }
+    ]
+  },
+  {
+    "id": 495189,
+    "urlImagen": "/IMAGENES/12_SEGURIDAD_ACTIVA_Y_PASIVA/CINTURON/26064.jpg",
+    "idPreguntaCuest": 947,
+    "enunciado": "Respecto al uso del cinturón de seguridad, como norma general, el ocupante de un turismo distinto del conductor está obligado a...",
+    "respuestas": [
+      {
+        "id": 1467556,
+        "correcta": true,
+        "contenido": "llevarlo puesto y correctamente abrochado.",
+        "idPregunta": 495189
+      },
+      {
+        "id": 1467557,
+        "correcta": false,
+        "contenido": "llevarlo puesto y sin abrochar, excepto si viaja en la plaza delantera.",
+        "idPregunta": 495189
+      },
+      {
+        "id": 1467558,
+        "correcta": false,
+        "contenido": "llevarlo puesto y abrochado solo en vías interurbanas.",
+        "idPregunta": 495189
+      }
+    ]
+  },
+  {
+    "id": 495190,
+    "urlImagen": "/IMAGENES/05_CONDUCTOR_FACTOR_HUMANO/DISTRACION/44792.jpg",
+    "idPreguntaCuest": 2938,
+    "enunciado": "Buscar una emisora de radio o manipular el reproductor de música, ¿pueden distraer al conductor?",
+    "respuestas": [
+      {
+        "id": 1467559,
+        "correcta": false,
+        "contenido": "Solo si las emisoras de radio no están guardadas en memoria.",
+        "idPregunta": 495190
+      },
+      {
+        "id": 1467560,
+        "correcta": false,
+        "contenido": "No.",
+        "idPregunta": 495190
+      },
+      {
+        "id": 1467561,
+        "correcta": true,
+        "contenido": "Sí, aumentando el riesgo de accidente.",
+        "idPregunta": 495190
+      }
+    ]
+  },
+  {
+    "id": 495191,
+    "urlImagen": "/IMAGENES/19_VEHICULOS_TIPOS/FURGON_-_FURGONETA/113952.jpg",
+    "idPreguntaCuest": 34068,
+    "enunciado": "¿Cuál es el número máximo de plazas autorizadas, incluida la del conductor, que puede tener una furgoneta para poder circular?",
+    "respuestas": [
+      {
+        "id": 1467562,
+        "correcta": true,
+        "contenido": "9 plazas.",
+        "idPregunta": 495191
+      },
+      {
+        "id": 1467563,
+        "correcta": false,
+        "contenido": "3 plazas.",
+        "idPregunta": 495191
+      },
+      {
+        "id": 1467564,
+        "correcta": false,
+        "contenido": "5 plazas.",
+        "idPregunta": 495191
+      }
+    ]
+  },
+  {
+    "id": 495192,
+    "urlImagen": "/IMAGENES/04_CIRCULACION/CARRETERA/19283.jpg",
+    "idPreguntaCuest": 14352,
+    "enunciado": "En vías fuera de poblado que no dispongan de espacio especialmente reservado para ellos, ¿qué peatones deben circular por su derecha y obedecer las señales dirigidas a los conductores?",
+    "respuestas": [
+      {
+        "id": 1467565,
+        "correcta": false,
+        "contenido": "Los que conduzcan un rebaño de animales.",
+        "idPregunta": 495192
+      },
+      {
+        "id": 1467566,
+        "correcta": false,
+        "contenido": "Los que empujen o arrastren una motocicleta de dos ruedas.",
+        "idPregunta": 495192
+      },
+      {
+        "id": 1467567,
+        "correcta": true,
+        "contenido": "Los discapacitados que se desplacen en silla de ruedas.",
+        "idPregunta": 495192
+      }
+    ]
+  },
+  {
+    "id": 495193,
+    "urlImagen": "/IMAGENES/19_VEHICULOS_TIPOS/MOTOCICLETAS/12180.JPG",
+    "idPreguntaCuest": 37896,
+    "enunciado": "¿Autoriza el permiso de la clase B a conducir motocicletas?",
+    "respuestas": [
+      {
+        "id": 1467568,
+        "correcta": false,
+        "contenido": "No, en ningún caso.",
+        "idPregunta": 495193
+      },
+      {
+        "id": 1467569,
+        "correcta": false,
+        "contenido": "Sí, hasta 250 c.c. de cilindrada.",
+        "idPregunta": 495193
+      },
+      {
+        "id": 1467570,
+        "correcta": true,
+        "contenido": "Sí, cuando la antigüedad del permiso supere los 3 años y solo las que autoriza a conducir el permiso A1.",
+        "idPregunta": 495193
+      }
+    ]
+  },
+  {
+    "id": 495194,
+    "urlImagen": "/IMAGENES/10_MEDIO_AMBIENTE_Y_CONTAMINACION/19185.jpg",
+    "idPreguntaCuest": 937,
+    "enunciado": "Para realizar una conducción eficiente y reducir el consumo de combustible, ¿qué debe hacer?",
+    "respuestas": [
+      {
+        "id": 1467571,
+        "correcta": false,
+        "contenido": "Realizar el mayor número de cambios de marcha posibles, evitando saltarse una marcha.",
+        "idPregunta": 495194
+      },
+      {
+        "id": 1467572,
+        "correcta": false,
+        "contenido": "Pisar el pedal del acelerador al arrancar el vehículo.",
+        "idPregunta": 495194
+      },
+      {
+        "id": 1467573,
+        "correcta": true,
+        "contenido": "Usar la relación de marchas más adecuada en cada momento.",
+        "idPregunta": 495194
+      }
+    ]
+  },
+  {
+    "id": 495195,
+    "urlImagen": "/IMAGENES/18_OTROS_USUARIOS_DE_LA_VIA/CICLISTAS/19293.jpg",
+    "idPreguntaCuest": 38007,
+    "enunciado": "En una vía urbana con dos carriles de circulación para el mismo sentido de la marcha, ¿le está permitido a un ciclista adelantar por la derecha a un turismo?",
+    "respuestas": [
+      {
+        "id": 1467574,
+        "correcta": true,
+        "contenido": "Sí, siempre que no exista peligro para los demás usuarios.",
+        "idPregunta": 495195
+      },
+      {
+        "id": 1467575,
+        "correcta": false,
+        "contenido": "No, deberá adelantarle por la izquierda.",
+        "idPregunta": 495195
+      },
+      {
+        "id": 1467576,
+        "correcta": false,
+        "contenido": "Solo si el turismo se encuentra detenido o en caso de retención.",
+        "idPregunta": 495195
+      }
+    ]
+  },
+  {
+    "id": 495196,
+    "urlImagen": "/IMAGENES/19_VEHICULOS_TIPOS/CICLOMOTORES/FOTOS/FOTO1841.jpg",
+    "idPreguntaCuest": 846,
+    "enunciado": "El vehículo blanco se quiere incorporar a la circulación proveniente del garaje particular de una vivienda; ¿debe cederle el paso?",
+    "respuestas": [
+      {
+        "id": 1467577,
+        "correcta": false,
+        "contenido": "Solo si el vehículo blanco está destinado al servicio público.",
+        "idPregunta": 495196
+      },
+      {
+        "id": 1467578,
+        "correcta": true,
+        "contenido": "No.",
+        "idPregunta": 495196
+      },
+      {
+        "id": 1467579,
+        "correcta": false,
+        "contenido": "Sí, porque se incorpora por la derecha.",
+        "idPregunta": 495196
+      }
+    ]
+  },
+  {
+    "id": 495197,
+    "urlImagen": "/IMAGENES/07_FACTORES_CLIMATOLOGICOS_Y_AMBIENTALES/LLUVIA/GAL047.jpg",
+    "idPreguntaCuest": 1505,
+    "enunciado": "¿Qué puede ocurrir si, al atravesar un charco de agua, los frenos se mojan?",
+    "respuestas": [
+      {
+        "id": 1467580,
+        "correcta": true,
+        "contenido": "Que pueden perder temporalmente su eficacia.",
+        "idPregunta": 495197
+      },
+      {
+        "id": 1467581,
+        "correcta": false,
+        "contenido": "Que se estropean y deben cambiarse las zapatas o pastillas.",
+        "idPregunta": 495197
+      },
+      {
+        "id": 1467582,
+        "correcta": false,
+        "contenido": "Que se reduce la distancia de frenado.",
+        "idPregunta": 495197
+      }
+    ]
+  },
+  {
+    "id": 495198,
+    "urlImagen": "/IMAGENES/01_ACCIDENTES_-_EMERGENCIAS/ACTUACIONES/42256.jpg",
+    "idPreguntaCuest": 528,
+    "enunciado": "En un accidente con heridos graves, si la ayuda no está organizada y no han llegado al lugar los agentes de la autoridad, ¿está obligado a ayudar?",
+    "respuestas": [
+      {
+        "id": 1467583,
+        "correcta": true,
+        "contenido": "Sí, esté o no esté implicado en el accidente.",
+        "idPregunta": 495198
+      },
+      {
+        "id": 1467584,
+        "correcta": false,
+        "contenido": "Sí, pero solo si está implicado en el accidente.",
+        "idPregunta": 495198
+      },
+      {
+        "id": 1467585,
+        "correcta": false,
+        "contenido": "No, aunque esté implicado en el accidente.",
+        "idPregunta": 495198
+      }
+    ]
+  },
+  {
+    "id": 495199,
+    "urlImagen": "/IMAGENES/05_CONDUCTOR_FACTOR_HUMANO/FATIGA_Y_SOMNOLENCIA/31276.jpg",
+    "idPreguntaCuest": 3448,
+    "enunciado": "Para evitar un accidente, un conductor con fatiga al volante debe parar a descansar de forma adecuada cuanto antes porque...",
+    "respuestas": [
+      {
+        "id": 1467586,
+        "correcta": true,
+        "contenido": "el sueño puede aparecer de un momento a otro.",
+        "idPregunta": 495199
+      },
+      {
+        "id": 1467587,
+        "correcta": false,
+        "contenido": "la agudeza visual aumenta y se ven los objetos borrosos.",
+        "idPregunta": 495199
+      },
+      {
+        "id": 1467588,
+        "correcta": false,
+        "contenido": "los efectos de la fatiga hacen que el conductor dé positivo en un control de alcoholemia.",
+        "idPregunta": 495199
+      }
+    ]
+  },
+  {
+    "id": 495200,
+    "urlImagen": "/IMAGENES/04_CIRCULACION/AUTOVIA/PONS197.jpg",
+    "idPreguntaCuest": 2850,
+    "enunciado": "De acuerdo con los datos de accidentalidad con víctimas mortales, las autopistas y autovías son...",
+    "respuestas": [
+      {
+        "id": 1467589,
+        "correcta": false,
+        "contenido": "igual de seguras que las carreteras convencionales.",
+        "idPregunta": 495200
+      },
+      {
+        "id": 1467590,
+        "correcta": true,
+        "contenido": "más seguras que las carreteras convencionales.",
+        "idPregunta": 495200
+      },
+      {
+        "id": 1467591,
+        "correcta": false,
+        "contenido": "menos seguras que las carreteras convencionales.",
+        "idPregunta": 495200
+      }
+    ]
+  },
+  {
+    "id": 495201,
+    "urlImagen": "/IMAGENES/19_VEHICULOS_TIPOS/MOTOCICLETAS/51868.jpg",
+    "idPreguntaCuest": 2461,
+    "enunciado": "En una motocicleta de anchura inferior a un metro, ¿cuánto puede sobresalir la carga por la parte delantera?",
+    "respuestas": [
+      {
+        "id": 1467592,
+        "correcta": false,
+        "contenido": "0,50 metros.",
+        "idPregunta": 495201
+      },
+      {
+        "id": 1467593,
+        "correcta": false,
+        "contenido": "0,25 metros.",
+        "idPregunta": 495201
+      },
+      {
+        "id": 1467594,
+        "correcta": true,
+        "contenido": "Nada.",
+        "idPregunta": 495201
+      }
+    ]
+  },
+  {
+    "id": 495202,
+    "urlImagen": "/IMAGENES/13_SENALES_CATALOGO/VERTICALES/PRESENALIZACION/S-200.jpg",
+    "idPreguntaCuest": 1969,
+    "enunciado": "Esta señal, ¿qué indica?",
+    "respuestas": [
+      {
+        "id": 1467595,
+        "correcta": false,
+        "contenido": "Que hay una vía que tiene cuatro carreteras.",
+        "idPregunta": 495202
+      },
+      {
+        "id": 1467596,
+        "correcta": true,
+        "contenido": "Las direcciones de las distintas salidas en la próxima glorieta.",
+        "idPregunta": 495202
+      },
+      {
+        "id": 1467597,
+        "correcta": false,
+        "contenido": "El lugar a partir del cual rigen las normas de las autopistas.",
+        "idPregunta": 495202
+      }
+    ]
+  },
+  {
+    "id": 495203,
+    "urlImagen": "/IMAGENES/04_CIRCULACION/INTERSECCIONES/19298.JPG",
+    "idPreguntaCuest": 1865,
+    "enunciado": "En esta intersección, ¿qué turismo pasará primero?",
+    "respuestas": [
+      {
+        "id": 1467598,
+        "correcta": false,
+        "contenido": "El azul.",
+        "idPregunta": 495203
+      },
+      {
+        "id": 1467599,
+        "correcta": true,
+        "contenido": "El rojo.",
+        "idPregunta": 495203
+      },
+      {
+        "id": 1467600,
+        "correcta": false,
+        "contenido": "El amarillo.",
+        "idPregunta": 495203
+      }
+    ]
+  },
+  {
+    "id": 495204,
+    "urlImagen": "/IMAGENES/05_CONDUCTOR_FACTOR_HUMANO/MEDICAMENTOS/17460.jpg",
+    "idPreguntaCuest": 1620,
+    "enunciado": "Los efectos secundarios de los medicamentos que alteran la capacidad de conducción, ¿se manifiestan de la misma manera en todas las personas?",
+    "respuestas": [
+      {
+        "id": 1467601,
+        "correcta": false,
+        "contenido": "Sí, sus efectos son idénticos para todas las personas.",
+        "idPregunta": 495204
+      },
+      {
+        "id": 1467602,
+        "correcta": true,
+        "contenido": "No; pueden variar por diversos factores, como el hábito de consumo o el estado físico del conductor.",
+        "idPregunta": 495204
+      },
+      {
+        "id": 1467603,
+        "correcta": false,
+        "contenido": "Solo si el tratamiento médico se prolonga en el tiempo.",
+        "idPregunta": 495204
+      }
+    ]
+  },
+  {
+    "id": 495205,
+    "urlImagen": "/IMAGENES/13_SENALES_CATALOGO/VERTICALES/OBLIGACION/R-401C.jpg",
+    "idPreguntaCuest": 37847,
+    "enunciado": "¿Qué indica esta señal situada sobre un refugio?",
+    "respuestas": [
+      {
+        "id": 1467604,
+        "correcta": false,
+        "contenido": "Los lados del refugio por donde está prohibido pasar.",
+        "idPregunta": 495205
+      },
+      {
+        "id": 1467605,
+        "correcta": true,
+        "contenido": "Los lados del refugio por donde los vehículos han de pasar.",
+        "idPregunta": 495205
+      },
+      {
+        "id": 1467606,
+        "correcta": false,
+        "contenido": "Los lados de la calzada en los que está permitido estacionar.",
+        "idPregunta": 495205
+      }
+    ]
+  },
+  {
+    "id": 495206,
+    "urlImagen": "/IMAGENES/13_SENALES_CATALOGO/VERTICALES/ADVERTENCIA_PELIGRO/P-13a.jpg",
+    "idPreguntaCuest": 1383,
+    "enunciado": "Esta señal indica peligro por la proximidad de...",
+    "respuestas": [
+      {
+        "id": 1467607,
+        "correcta": false,
+        "contenido": "un tramo de vía con fuerte pendiente descendente.",
+        "idPregunta": 495206
+      },
+      {
+        "id": 1467608,
+        "correcta": true,
+        "contenido": "una curva peligrosa hacia la derecha.",
+        "idPregunta": 495206
+      },
+      {
+        "id": 1467609,
+        "correcta": false,
+        "contenido": "una zona de estrechamiento de calzada.",
+        "idPregunta": 495206
+      }
+    ]
+  },
+  {
+    "id": 495207,
+    "urlImagen": "/IMAGENES/12_SEGURIDAD_ACTIVA_Y_PASIVA/CINTURON/25994.jpg",
+    "idPreguntaCuest": 1494,
+    "enunciado": "El uso del cinturón de seguridad, ¿reduce el riesgo de fallecimiento en un accidente de tráfico?",
+    "respuestas": [
+      {
+        "id": 1467610,
+        "correcta": false,
+        "contenido": "No; al contrario, aumenta al doble la posibilidad de resultar muerto.",
+        "idPregunta": 495207
+      },
+      {
+        "id": 1467611,
+        "correcta": true,
+        "contenido": "Sí; reduce a la mitad el riesgo de muerte o de sufrir heridas graves.",
+        "idPregunta": 495207
+      },
+      {
+        "id": 1467612,
+        "correcta": false,
+        "contenido": "Solo reduce el riesgo en los asientos delanteros pero no en las plazas traseras.",
+        "idPregunta": 495207
+      }
+    ]
+  },
+  {
+    "id": 495208,
+    "urlImagen": "/IMAGENES/19_VEHICULOS_TIPOS/REMOLQUES_-_SEMIRREMOLQUES/18066.jpg",
+    "idPreguntaCuest": 2356,
+    "enunciado": "En una carretera convencional, ¿cuál es la velocidad máxima a la que le está permitido circular al conductor de un turismo que arrastre un remolque?",
+    "respuestas": [
+      {
+        "id": 1467613,
+        "correcta": false,
+        "contenido": "100 kilómetros por hora.",
+        "idPregunta": 495208
+      },
+      {
+        "id": 1467614,
+        "correcta": false,
+        "contenido": "90 kilómetros por hora.",
+        "idPregunta": 495208
+      },
+      {
+        "id": 1467615,
+        "correcta": true,
+        "contenido": "80 kilómetros por hora.",
+        "idPregunta": 495208
+      }
+    ]
+  },
+  {
+    "id": 495209,
+    "urlImagen": "/IMAGENES/02_AGENTES/50776.jpg",
+    "idPreguntaCuest": 14333,
+    "enunciado": "En un control preventivo, ¿quiénes están obligados a someterse a las pruebas que se establezcan para la detección de alcoholemia?",
+    "respuestas": [
+      {
+        "id": 1467616,
+        "correcta": false,
+        "contenido": "Únicamente los conductores de vehículos a motor.",
+        "idPregunta": 495209
+      },
+      {
+        "id": 1467617,
+        "correcta": true,
+        "contenido": "Los conductores de bicicletas.",
+        "idPregunta": 495209
+      },
+      {
+        "id": 1467618,
+        "correcta": false,
+        "contenido": "Todos los usuarios de la vía.",
+        "idPregunta": 495209
+      }
+    ]
+  },
+  {
+    "id": 495210,
+    "urlImagen": "/IMAGENES/14_SENALES_EN_CIRCULACION/MARCAS_VIALES/42445.jpg",
+    "idPreguntaCuest": 14220,
+    "enunciado": "¿Qué precaución debe adoptar todo conductor para reducir el riesgo de atropello a peatones?",
+    "respuestas": [
+      {
+        "id": 1467619,
+        "correcta": false,
+        "contenido": "Circular lo más cerca posible de la acera o de los vehículos estacionados.",
+        "idPregunta": 495210
+      },
+      {
+        "id": 1467620,
+        "correcta": true,
+        "contenido": "Moderar la velocidad en zonas donde puede haber aglomeración de personas.",
+        "idPregunta": 495210
+      },
+      {
+        "id": 1467621,
+        "correcta": false,
+        "contenido": "Indicarles que crucen la calzada en vías con varios carriles.",
+        "idPregunta": 495210
+      }
+    ]
+  }
+]

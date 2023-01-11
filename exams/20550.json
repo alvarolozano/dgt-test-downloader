@@ -1,0 +1,782 @@
+[
+  {
+    "id": 495124,
+    "urlImagen": "/IMAGENES/14_SENALES_EN_CIRCULACION/SEMAFOROS/FOTO3104.jpg",
+    "idPreguntaCuest": 581,
+    "enunciado": "La flecha pintada sobre el carril derecho, ¿qué indica cuando se circula sobre él?",
+    "respuestas": [
+      {
+        "id": 1467360,
+        "correcta": true,
+        "contenido": "Obliga a seguir la dirección de la flecha.",
+        "idPregunta": 495124
+      },
+      {
+        "id": 1467362,
+        "correcta": false,
+        "contenido": "Obliga a seguir la dirección de la flecha, aunque permite ir en otra dirección si no hay peligro.",
+        "idPregunta": 495124
+      },
+      {
+        "id": 1467363,
+        "correcta": false,
+        "contenido": "No obliga, solo informa de la dirección a seguir.",
+        "idPregunta": 495124
+      }
+    ]
+  },
+  {
+    "id": 495126,
+    "urlImagen": "/IMAGENES/09_MANIOBRAS/ADELANTAMIENTO/FOTO3017.jpg",
+    "idPreguntaCuest": 771,
+    "enunciado": "Un conductor que señaliza un cambio de carril, ¿tiene preferencia sobre los conductores de los vehículos que circulan por el carril al que se pretende desplazar?",
+    "respuestas": [
+      {
+        "id": 1467366,
+        "correcta": true,
+        "contenido": "No.",
+        "idPregunta": 495126
+      },
+      {
+        "id": 1467368,
+        "correcta": false,
+        "contenido": "Sí.",
+        "idPregunta": 495126
+      },
+      {
+        "id": 1467369,
+        "correcta": false,
+        "contenido": "Solo si va a adelantar a un vehículo de grandes dimensiones.",
+        "idPregunta": 495126
+      }
+    ]
+  },
+  {
+    "id": 495128,
+    "urlImagen": "/IMAGENES/19_VEHICULOS_TIPOS/REMOLQUES_-_SEMIRREMOLQUES/PONS343.jpg",
+    "idPreguntaCuest": 3554,
+    "enunciado": "Para conducir un turismo con un remolque de menos de 750 Kg. de M.M.A., ¿qué permiso, al menos, se necesita?",
+    "respuestas": [
+      {
+        "id": 1467372,
+        "correcta": true,
+        "contenido": "El de la clase B.",
+        "idPregunta": 495128
+      },
+      {
+        "id": 1467374,
+        "correcta": false,
+        "contenido": "El de la clase BE.",
+        "idPregunta": 495128
+      },
+      {
+        "id": 1467375,
+        "correcta": false,
+        "contenido": "El de la clase C1, al ser un remolque ligero.",
+        "idPregunta": 495128
+      }
+    ]
+  },
+  {
+    "id": 495130,
+    "urlImagen": "/IMAGENES/01_ACCIDENTES_-_EMERGENCIAS/VEHICULOS_ACCIDENTADOS/16464.jpg",
+    "idPreguntaCuest": 1973,
+    "enunciado": "La probabilidad de sufrir un accidente de tráfico...",
+    "respuestas": [
+      {
+        "id": 1467378,
+        "correcta": false,
+        "contenido": "depende siempre de factores ajenos al conductor, como el vehículo o la vía.",
+        "idPregunta": 495130
+      },
+      {
+        "id": 1467380,
+        "correcta": true,
+        "contenido": "puede reducirse evitando los factores de riesgo",
+        "idPregunta": 495130
+      },
+      {
+        "id": 1467381,
+        "correcta": false,
+        "contenido": "solo depende de la capacidad del conductor.",
+        "idPregunta": 495130
+      }
+    ]
+  },
+  {
+    "id": 495132,
+    "urlImagen": "/IMAGENES/13_SENALES_CATALOGO/SENALES_VEHICULOS/PONS017.jpg",
+    "idPreguntaCuest": 3034,
+    "enunciado": "Un turismo que lleve esta señal de minusválido, ¿puede circular por un carril VAO?",
+    "respuestas": [
+      {
+        "id": 1467383,
+        "correcta": false,
+        "contenido": "No, salvo que tenga una autorización especial del titular de la vía.",
+        "idPregunta": 495132
+      },
+      {
+        "id": 1467385,
+        "correcta": false,
+        "contenido": "Solo si está ocupado por dos o más personas.",
+        "idPregunta": 495132
+      },
+      {
+        "id": 1467387,
+        "correcta": true,
+        "contenido": "Sí, aun cuando solo lo ocupe su conductor.",
+        "idPregunta": 495132
+      }
+    ]
+  },
+  {
+    "id": 495134,
+    "urlImagen": "/IMAGENES/05_CONDUCTOR_FACTOR_HUMANO/CAPACIDADES/22566.jpg",
+    "idPreguntaCuest": 38294,
+    "enunciado": "¿Cómo advertirá de su propósito de efectuar una parada en el carril derecho a los conductores de los vehículos que circulan por detrás del suyo?",
+    "respuestas": [
+      {
+        "id": 1467389,
+        "correcta": false,
+        "contenido": "Utilizando la señal de emergencia.",
+        "idPregunta": 495134
+      },
+      {
+        "id": 1467391,
+        "correcta": true,
+        "contenido": "Utilizando el intermitente derecho.",
+        "idPregunta": 495134
+      },
+      {
+        "id": 1467393,
+        "correcta": false,
+        "contenido": "Utilizando el intermitente izquierdo.",
+        "idPregunta": 495134
+      }
+    ]
+  },
+  {
+    "id": 495136,
+    "urlImagen": "/IMAGENES/14_SENALES_EN_CIRCULACION/VERTICALES/12_DIRECCION/CC49.jpg",
+    "idPreguntaCuest": 1461,
+    "enunciado": "En un trayecto largo, ¿qué se puede hacer para evitar que aparezcan los síntomas de la fatiga?",
+    "respuestas": [
+      {
+        "id": 1467396,
+        "correcta": false,
+        "contenido": "Sustituir las pausas en la conducción por café o bebidas energéticas.",
+        "idPregunta": 495136
+      },
+      {
+        "id": 1467398,
+        "correcta": true,
+        "contenido": "Realizar descansos suficientemente largos.",
+        "idPregunta": 495136
+      },
+      {
+        "id": 1467400,
+        "correcta": false,
+        "contenido": "Poner música o una emisora de radio a un volumen bastante elevado.",
+        "idPregunta": 495136
+      }
+    ]
+  },
+  {
+    "id": 495138,
+    "urlImagen": "/IMAGENES/19_VEHICULOS_TIPOS/MOTOCICLETAS_PARTES/19053.JPG",
+    "idPreguntaCuest": 1636,
+    "enunciado": "En una motocicleta, generalmente, ¿con qué pie se acciona el freno trasero?",
+    "respuestas": [
+      {
+        "id": 1467403,
+        "correcta": false,
+        "contenido": "Con el pie izquierdo.",
+        "idPregunta": 495138
+      },
+      {
+        "id": 1467404,
+        "correcta": true,
+        "contenido": "Con el pie derecho.",
+        "idPregunta": 495138
+      },
+      {
+        "id": 1467406,
+        "correcta": false,
+        "contenido": "El freno trasero no se acciona con el pie, se acciona con la mano izquierda.",
+        "idPregunta": 495138
+      }
+    ]
+  },
+  {
+    "id": 495140,
+    "urlImagen": "/IMAGENES/07_FACTORES_CLIMATOLOGICOS_Y_AMBIENTALES/NIEBLA/0310050000859.jpg",
+    "idPreguntaCuest": 60,
+    "enunciado": "La luz antiniebla trasera deberá utilizarse en caso de...",
+    "respuestas": [
+      {
+        "id": 1467409,
+        "correcta": true,
+        "contenido": "niebla espesa.",
+        "idPregunta": 495140
+      },
+      {
+        "id": 1467411,
+        "correcta": false,
+        "contenido": "circular de noche por una vía sin asfaltar.",
+        "idPregunta": 495140
+      },
+      {
+        "id": 1467413,
+        "correcta": false,
+        "contenido": "circular al anochecer por una vía sin arcén.",
+        "idPregunta": 495140
+      }
+    ]
+  },
+  {
+    "id": 495142,
+    "urlImagen": "/IMAGENES/07_FACTORES_CLIMATOLOGICOS_Y_AMBIENTALES/NIEVE/PONS126.jpg",
+    "idPreguntaCuest": 3542,
+    "enunciado": "Cuando exista nieve en la calzada, ¿cómo se debe iniciar la marcha para evitar que las ruedas patinen y se hundan?",
+    "respuestas": [
+      {
+        "id": 1467415,
+        "correcta": true,
+        "contenido": "Con la marcha más alta que sea posible, que normalmente será la segunda.",
+        "idPregunta": 495142
+      },
+      {
+        "id": 1467417,
+        "correcta": false,
+        "contenido": "Pisando a fondo el acelerador para aumentar la fuerza motriz de las ruedas.",
+        "idPregunta": 495142
+      },
+      {
+        "id": 1467419,
+        "correcta": false,
+        "contenido": "Con la primera marcha engranada y soltando rápidamente el pedal de embrague.",
+        "idPregunta": 495142
+      }
+    ]
+  },
+  {
+    "id": 495144,
+    "urlImagen": "/IMAGENES/19_VEHICULOS_TIPOS/MOTOCICLETAS/37276.jpg",
+    "idPreguntaCuest": 3766,
+    "enunciado": "Un vehículo de dos ruedas provisto de un motor de combustión interna podrá ser catalogado como motocicleta siempre que...",
+    "respuestas": [
+      {
+        "id": 1467421,
+        "correcta": true,
+        "contenido": "su cilindrada sea superior a 50 centímetros cúbicos.",
+        "idPregunta": 495144
+      },
+      {
+        "id": 1467422,
+        "correcta": false,
+        "contenido": "pueda alcanzar una velocidad máxima superior a 40 km/h.",
+        "idPregunta": 495144
+      },
+      {
+        "id": 1467424,
+        "correcta": false,
+        "contenido": "disponga de al menos dos plazas, incluida la del conductor.",
+        "idPregunta": 495144
+      }
+    ]
+  },
+  {
+    "id": 495146,
+    "urlImagen": "/IMAGENES/14_SENALES_EN_CIRCULACION/VERTICALES/02_PRIORIDAD/36953.jpg",
+    "idPreguntaCuest": 37644,
+    "enunciado": "Cuando una señal imponga la obligación de detenerse, ¿hasta cuándo no se podrá reanudar la marcha?",
+    "respuestas": [
+      {
+        "id": 1467427,
+        "correcta": true,
+        "contenido": "Hasta que no se cumpla la obligación establecida por la señal.",
+        "idPregunta": 495146
+      },
+      {
+        "id": 1467428,
+        "correcta": false,
+        "contenido": "Hasta pasado un tiempo prudencial, que no será inferior a diez segundos.",
+        "idPregunta": 495146
+      },
+      {
+        "id": 1467430,
+        "correcta": false,
+        "contenido": "Hasta que no estén detenidos los vehículos que se acerquen por detrás.",
+        "idPregunta": 495146
+      }
+    ]
+  },
+  {
+    "id": 495148,
+    "urlImagen": "/IMAGENES/05_CONDUCTOR_FACTOR_HUMANO/PONS090.jpg",
+    "idPreguntaCuest": 24009,
+    "enunciado": "Según la Organización Mundial de la Salud, la depresión afecta a más de 300 millones de personas. Si sufrimos un trastorno depresivo debemos saber que...",
+    "respuestas": [
+      {
+        "id": 1467432,
+        "correcta": true,
+        "contenido": "los medicamentos para su tratamiento pueden producir alteraciones que afectan a la conducción.",
+        "idPregunta": 495148
+      },
+      {
+        "id": 1467434,
+        "correcta": false,
+        "contenido": "esta enfermedad no permite obtener en ningún caso el permiso de conducción de la clase B.",
+        "idPregunta": 495148
+      },
+      {
+        "id": 1467436,
+        "correcta": false,
+        "contenido": "esta enfermedad no altera las capacidades para conducir con seguridad.",
+        "idPregunta": 495148
+      }
+    ]
+  },
+  {
+    "id": 495150,
+    "urlImagen": "/IMAGENES/12_SEGURIDAD_ACTIVA_Y_PASIVA/AIRBAG/FOTO2187.jpg",
+    "idPreguntaCuest": 2976,
+    "enunciado": "Se debe desactivar el airbag frontal cuando en el asiento correspondiente al copiloto...",
+    "respuestas": [
+      {
+        "id": 1467439,
+        "correcta": false,
+        "contenido": "se instale un dispositivo de retención infantil orientado hacia delante.",
+        "idPregunta": 495150
+      },
+      {
+        "id": 1467440,
+        "correcta": false,
+        "contenido": "viaje una mujer embarazada.",
+        "idPregunta": 495150
+      },
+      {
+        "id": 1467441,
+        "correcta": true,
+        "contenido": "se instale un dispositivo de retención infantil orientado hacia atrás.",
+        "idPregunta": 495150
+      }
+    ]
+  },
+  {
+    "id": 495152,
+    "urlImagen": "/IMAGENES/04_CIRCULACION/INTERSECCIONES/0309050001115.jpg",
+    "idPreguntaCuest": 2412,
+    "enunciado": "En esta intersección, en la que los dos vehículos tienen de frente una señal de ceda el paso, ¿quién pasará primero?",
+    "respuestas": [
+      {
+        "id": 1467444,
+        "correcta": true,
+        "contenido": "El conductor del vehículo rojo porque tiene preferencia de paso.",
+        "idPregunta": 495152
+      },
+      {
+        "id": 1467446,
+        "correcta": false,
+        "contenido": "El conductor del autobús porque tiene mayor dificultad de maniobra.",
+        "idPregunta": 495152
+      },
+      {
+        "id": 1467447,
+        "correcta": false,
+        "contenido": "El conductor del autobús porque se aplica la regla general de prioridad de paso.",
+        "idPregunta": 495152
+      }
+    ]
+  },
+  {
+    "id": 495154,
+    "urlImagen": "/IMAGENES/02_AGENTES/47680.jpg",
+    "idPreguntaCuest": 2270,
+    "enunciado": "En general, bajo los efectos del alcohol los conductores...",
+    "respuestas": [
+      {
+        "id": 1467449,
+        "correcta": true,
+        "contenido": "perciben peor las señales de tráfico.",
+        "idPregunta": 495154
+      },
+      {
+        "id": 1467451,
+        "correcta": false,
+        "contenido": "perciben mejor las luces de los semáforos.",
+        "idPregunta": 495154
+      },
+      {
+        "id": 1467453,
+        "correcta": false,
+        "contenido": "distinguen mejor las luces de los vehículos.",
+        "idPregunta": 495154
+      }
+    ]
+  },
+  {
+    "id": 495156,
+    "urlImagen": "/IMAGENES/18_OTROS_USUARIOS_DE_LA_VIA/PEATONES/19282.jpg",
+    "idPreguntaCuest": 14350,
+    "enunciado": "En vías fuera de poblado que no dispongan de espacio especialmente reservado para ellos, a los peatones, ¿les está permitido circular por su derecha?",
+    "respuestas": [
+      {
+        "id": 1467456,
+        "correcta": false,
+        "contenido": "No, en ningún caso.",
+        "idPregunta": 495156
+      },
+      {
+        "id": 1467458,
+        "correcta": false,
+        "contenido": "Sí; los peatones siempre circularán por su derecha en este tipo de vías.",
+        "idPregunta": 495156
+      },
+      {
+        "id": 1467459,
+        "correcta": true,
+        "contenido": "Solo excepcionalmente si existen razones de mayor seguridad.",
+        "idPregunta": 495156
+      }
+    ]
+  },
+  {
+    "id": 495158,
+    "urlImagen": "/IMAGENES/05_CONDUCTOR_FACTOR_HUMANO/DISTRACION/18325.jpg",
+    "idPreguntaCuest": 1444,
+    "enunciado": "Conducir bajo los efectos del alcohol o de las drogas, ¿está considerado como delito en el Código Penal?",
+    "respuestas": [
+      {
+        "id": 1467462,
+        "correcta": false,
+        "contenido": "No, las sanciones son exclusivamente económicas.",
+        "idPregunta": 495158
+      },
+      {
+        "id": 1467464,
+        "correcta": true,
+        "contenido": "Sí.",
+        "idPregunta": 495158
+      },
+      {
+        "id": 1467465,
+        "correcta": false,
+        "contenido": "Solo cuando el conductor sea responsable de un accidente con víctimas mortales.",
+        "idPregunta": 495158
+      }
+    ]
+  },
+  {
+    "id": 495160,
+    "urlImagen": "/IMAGENES/18_OTROS_USUARIOS_DE_LA_VIA/PEATONES/41656.jpg",
+    "idPreguntaCuest": 14224,
+    "enunciado": "¿Qué precaución debe adoptar todo conductor para reducir el riesgo de atropello a peatones?",
+    "respuestas": [
+      {
+        "id": 1467467,
+        "correcta": true,
+        "contenido": "Estar muy atento al circular marcha atrás.",
+        "idPregunta": 495160
+      },
+      {
+        "id": 1467469,
+        "correcta": false,
+        "contenido": "Aumentar la velocidad ante un semáforo con la luz amarilla encendida.",
+        "idPregunta": 495160
+      },
+      {
+        "id": 1467471,
+        "correcta": false,
+        "contenido": "Circular sin alumbrado en poblado entre la puesta y la salida del sol.",
+        "idPregunta": 495160
+      }
+    ]
+  },
+  {
+    "id": 495162,
+    "urlImagen": "/IMAGENES/13_SENALES_CATALOGO/VERTICALES/OBLIGACION/R-404.jpg",
+    "idPreguntaCuest": 1404,
+    "enunciado": "¿Está obligado a circular cualquier automóvil por una calzada así señalizada?",
+    "respuestas": [
+      {
+        "id": 1467474,
+        "correcta": false,
+        "contenido": "Sí, porque es una vía exclusiva para automóviles.",
+        "idPregunta": 495162
+      },
+      {
+        "id": 1467476,
+        "correcta": false,
+        "contenido": "Sí, excepto camiones y furgones.",
+        "idPregunta": 495162
+      },
+      {
+        "id": 1467478,
+        "correcta": true,
+        "contenido": "Sí, excepto motocicletas sin sidecar.",
+        "idPregunta": 495162
+      }
+    ]
+  },
+  {
+    "id": 495164,
+    "urlImagen": "/IMAGENES/20_VEHICULOS_PARTES/RUEDAS/FOTO2104.jpg",
+    "idPreguntaCuest": 76,
+    "enunciado": "¿A qué presión de inflado se deben llevar los neumáticos de un vehículo?",
+    "respuestas": [
+      {
+        "id": 1467481,
+        "correcta": true,
+        "contenido": "A la recomendada en cada caso por el fabricante del vehículo.",
+        "idPregunta": 495164
+      },
+      {
+        "id": 1467482,
+        "correcta": false,
+        "contenido": "Un 10% por encima de la recomendada por el fabricante del vehículo.",
+        "idPregunta": 495164
+      },
+      {
+        "id": 1467484,
+        "correcta": false,
+        "contenido": "Un 15% por debajo de la recomendada por el fabricante del vehículo.",
+        "idPregunta": 495164
+      }
+    ]
+  },
+  {
+    "id": 495166,
+    "urlImagen": "/IMAGENES/19_VEHICULOS_TIPOS/CARAVANAS/19279.jpg",
+    "idPreguntaCuest": 3579,
+    "enunciado": "¿Cuál es la velocidad máxima a la que le está permitido circular por una autovía con una autocaravana de M.M.A. inferior a 3.500 kg?",
+    "respuestas": [
+      {
+        "id": 1467486,
+        "correcta": true,
+        "contenido": "120 km/h.",
+        "idPregunta": 495166
+      },
+      {
+        "id": 1467488,
+        "correcta": false,
+        "contenido": "90 km/h.",
+        "idPregunta": 495166
+      },
+      {
+        "id": 1467489,
+        "correcta": false,
+        "contenido": "100 km/h.",
+        "idPregunta": 495166
+      }
+    ]
+  },
+  {
+    "id": 495168,
+    "urlImagen": "/IMAGENES/04_CIRCULACION/CARRETERA/PONS366.jpg",
+    "idPreguntaCuest": 3115,
+    "enunciado": "Después de iniciar el adelantamiento comprueba que no podrá terminar la maniobra con seguridad porque se acerca un vehículo de frente; ¿qué debe hacer?",
+    "respuestas": [
+      {
+        "id": 1467492,
+        "correcta": false,
+        "contenido": "Advertir con ráfagas al otro conductor para que reduzca su velocidad.",
+        "idPregunta": 495168
+      },
+      {
+        "id": 1467494,
+        "correcta": false,
+        "contenido": "Mantenerse en el carril de sentido contrario y terminar la maniobra.",
+        "idPregunta": 495168
+      },
+      {
+        "id": 1467495,
+        "correcta": true,
+        "contenido": "Reducir la marcha y volver a mi carril tan pronto como sea posible.",
+        "idPregunta": 495168
+      }
+    ]
+  },
+  {
+    "id": 495170,
+    "urlImagen": "/IMAGENES/13_SENALES_CATALOGO/SENALES_VEHICULOS/0313099100015.jpg",
+    "idPreguntaCuest": 2441,
+    "enunciado": "¿Le está permitido a un turismo circular con un solo dispositivo de preseñalización de peligro?",
+    "respuestas": [
+      {
+        "id": 1467498,
+        "correcta": false,
+        "contenido": "Sí, solo es obligatorio un dispositivo.",
+        "idPregunta": 495170
+      },
+      {
+        "id": 1467500,
+        "correcta": true,
+        "contenido": "No, debe llevar dos dispositivos.",
+        "idPregunta": 495170
+      },
+      {
+        "id": 1467501,
+        "correcta": false,
+        "contenido": "Solo cuando circule por poblado y carreteras convencionales.",
+        "idPregunta": 495170
+      }
+    ]
+  },
+  {
+    "id": 495172,
+    "urlImagen": "/IMAGENES/13_SENALES_CATALOGO/VERTICALES/RESTRICCION_PASO/R-112.jpg",
+    "idPreguntaCuest": 1946,
+    "enunciado": "Esta señal, ¿prohíbe la entrada a los camiones?",
+    "respuestas": [
+      {
+        "id": 1467504,
+        "correcta": false,
+        "contenido": "Solo si la masa máxima del camión no supera las 2 toneladas.",
+        "idPregunta": 495172
+      },
+      {
+        "id": 1467506,
+        "correcta": false,
+        "contenido": "Sí, en cualquier caso.",
+        "idPregunta": 495172
+      },
+      {
+        "id": 1467508,
+        "correcta": true,
+        "contenido": "No.",
+        "idPregunta": 495172
+      }
+    ]
+  },
+  {
+    "id": 495174,
+    "urlImagen": "/IMAGENES/13_SENALES_CATALOGO/VERTICALES/ADVERTENCIA_PELIGRO/P-13a.jpg",
+    "idPreguntaCuest": 1383,
+    "enunciado": "Esta señal indica peligro por la proximidad de...",
+    "respuestas": [
+      {
+        "id": 1467510,
+        "correcta": false,
+        "contenido": "una zona de estrechamiento de calzada.",
+        "idPregunta": 495174
+      },
+      {
+        "id": 1467512,
+        "correcta": true,
+        "contenido": "una curva peligrosa hacia la derecha.",
+        "idPregunta": 495174
+      },
+      {
+        "id": 1467513,
+        "correcta": false,
+        "contenido": "un tramo de vía con fuerte pendiente descendente.",
+        "idPregunta": 495174
+      }
+    ]
+  },
+  {
+    "id": 495176,
+    "urlImagen": "/IMAGENES/14_SENALES_EN_CIRCULACION/VERTICALES/05_OTRAS_PROHIBICION_RESTRICCION/PONS433.jpg",
+    "idPreguntaCuest": 2857,
+    "enunciado": "Los límites de velocidad establecidos en las vías tienen como objetivo...",
+    "respuestas": [
+      {
+        "id": 1467516,
+        "correcta": false,
+        "contenido": "garantizar la seguridad únicamente.",
+        "idPregunta": 495176
+      },
+      {
+        "id": 1467518,
+        "correcta": true,
+        "contenido": "garantizar la seguridad y la fluidez.",
+        "idPregunta": 495176
+      },
+      {
+        "id": 1467519,
+        "correcta": false,
+        "contenido": "adaptar la conducción a las nuevas tecnologías de los vehículos y el medio ambiente.",
+        "idPregunta": 495176
+      }
+    ]
+  },
+  {
+    "id": 495178,
+    "urlImagen": "/IMAGENES/Imagenblanca.jpg",
+    "idPreguntaCuest": 1815,
+    "enunciado": "Si no pretende adelantar, ¿cuándo deberá mantener una distancia de seguridad de, al menos, 100 metros, con el vehículo que circule delante?",
+    "respuestas": [
+      {
+        "id": 1467522,
+        "correcta": false,
+        "contenido": "Cuando circule por un paso elevado.",
+        "idPregunta": 495178
+      },
+      {
+        "id": 1467524,
+        "correcta": true,
+        "contenido": "Cuando circule por un túnel.",
+        "idPregunta": 495178
+      },
+      {
+        "id": 1467525,
+        "correcta": false,
+        "contenido": "Al llegar a un paso a nivel.",
+        "idPregunta": 495178
+      }
+    ]
+  },
+  {
+    "id": 495179,
+    "urlImagen": "/IMAGENES/09_MANIOBRAS/ESTACIONAMIENTO/18470.jpg",
+    "idPreguntaCuest": 1847,
+    "enunciado": "Esta prohibido parar...",
+    "respuestas": [
+      {
+        "id": 1467526,
+        "correcta": true,
+        "contenido": "donde se ocasione riesgo para el resto de usuarios.",
+        "idPregunta": 495179
+      },
+      {
+        "id": 1467527,
+        "correcta": false,
+        "contenido": "en las proximidades de los pasos para peatones.",
+        "idPregunta": 495179
+      },
+      {
+        "id": 1467528,
+        "correcta": false,
+        "contenido": "delante de los vados señalizados correctamente.",
+        "idPregunta": 495179
+      }
+    ]
+  },
+  {
+    "id": 495180,
+    "urlImagen": "/IMAGENES/05_CONDUCTOR_FACTOR_HUMANO/DISTRACION/49290.jpg",
+    "idPreguntaCuest": 1746,
+    "enunciado": "Un conductor, ¿se puede distraer si come o bebe mientras conduce?",
+    "respuestas": [
+      {
+        "id": 1467529,
+        "correcta": false,
+        "contenido": "No.",
+        "idPregunta": 495180
+      },
+      {
+        "id": 1467530,
+        "correcta": true,
+        "contenido": "Sí.",
+        "idPregunta": 495180
+      },
+      {
+        "id": 1467531,
+        "correcta": false,
+        "contenido": "Comer sí puede provocar que el conductor se distraiga, pero beber no.",
+        "idPregunta": 495180
+      }
+    ]
+  }
+]

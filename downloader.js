@@ -1,43 +1,50 @@
+import axios from 'axios';
+import qs from 'qs';
+import fs from 'fs';
+
 /**
  * author: Álvaro Lozano
  * website: https://alvarolozano.dev
  * 
- * DISCLAIMER;
- * - The scraped data bellow, comes from a public source.
- * - Data downloaded with this script must ALWAYS be for personal use
+ * check README.md first
  */
 
-import axios from 'axios';
+let Cookie;
 
-// We want our client to keep session between requests
-axios.defaults.withCredentials = true;
-axios.defaults.headers.common['Content-Type'] ='application/x-www-form-urlencoded';
+// TODO: Dynamic params
+const params = qs.stringify({
+    tipoCuest:"B", 
+    idioma:"1"
+});
 
 (
-    // Main method
     async () => {
-
+        
         try {
 
-            // Start a new session
-            await axios.get('https://sedeapl.dgt.gob.es/WEB_EXAM_AUTO/service/TiposExamenesServlet');
-            // await axios.get('https://sedeapl.dgt.gob.es/WEB_EXAM_AUTO/examen/loginExamen.jsp?tipoCuest=B', {withCredentials: true});
-        
-            await Promise.all([new Promise((r, rej) => setTimeout(() => r(), 10000))]);
-
-            // Set Test parameters
-            const {status} = await axios.post('https://sedeapl.dgt.gob.es/WEB_EXAM_AUTO/service/VerificarExamenServlet?tipoCuest=B&idioma=1', 'tipoCuest=B&idioma=1', {withCredentials: true});
-
-            await Promise.all([new Promise((r, rej) => setTimeout(() => r(), 10000))]);
-
-            // await axios.get('https://sedeapl.dgt.gob.es/WEB_EXAM_AUTO/examen/img/pixeltrans.gif', {withCredentials: true});
-
-
+            // This request throws a 302 which we don't want to follow
+            await axios.post('https://sedeapl.dgt.gob.es/WEB_EXAM_AUTO/service/VerificarExamenServlet?tipoCuest=B&idioma=1', params, {
+                headers: {
+                        'Content-Type': 'application/x-www-form-urlencoded'
+                }, 
+                maxRedirects: 0
+            }).catch((e) => {
+                // We read the cookie manually from the 302 response
+                Cookie = e.response.headers['set-cookie'][0].split(';')[0];
+            });
+            
             // Request exam data
-            const res = await axios.get('https://sedeapl.dgt.gob.es/WEB_EXAM_AUTO/service/RecuperarAspiranteServlet', {withCredentials: true});
-            console.log(res.data)
+            const { data: { cuestionario } } = await axios.get('https://sedeapl.dgt.gob.es/WEB_EXAM_AUTO/service/RecuperarAspiranteServlet', {headers: {cookie: Cookie}});
+
+            // Save exam if it doesn't exist
+            const examPath = `exams/${cuestionario.id}.json`;
+            
+            if(!fs.existsSync(`exams/${cuestionario.id}.json`)) {
+                fs.writeFileSync(examPath, JSON.stringify(cuestionario.preguntas, null, 2), {encoding: 'utf-8'});
+            }
+
         } catch (e) {
-            console.log(e);
+            console.error(e);
         }
     }
 )()
