@@ -1,0 +1,16 @@
+{
+  "name": "dgt-test-downloader",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Descarga exámenes de la DGT mediante web scrapping",
+  "main": "index.js",
+  "scripts": {
+    "start": "node downloader.js"
+  },
+  "keywords": ["scrapping", "DGT"],
+  "author": "Álvaro Lozano",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.2"
+  }
+}
