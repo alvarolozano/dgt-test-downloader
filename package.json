@@ -5,7 +5,8 @@
   "description": "Descarga exámenes de la DGT mediante web scrapping",
   "main": "index.js",
   "scripts": {
-    "start": "node downloader.js"
+    "download": "node ./demos/filesystem/index.js",
+    "serve": "node ./demos/server/index.js"
   },
   "keywords": [
     "scrapping",
@@ -15,6 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.2.2",
+    "koa": "^2.14.1",
     "qs": "^6.11.0"
   }
 }

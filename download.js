@@ -1,6 +1,5 @@
 import axios from 'axios';
 import qs from 'qs';
-import fs from 'fs';
 
 /**
  * author: Álvaro Lozano
@@ -9,7 +8,6 @@ import fs from 'fs';
  * check README.md first
  */
 
-let Cookie;
 
 // TODO: Dynamic params
 const params = qs.stringify({
@@ -17,8 +15,8 @@ const params = qs.stringify({
     idioma:"1"
 });
 
-(
-    async () => {
+export default async function getRandomExam() {
+        let Cookie;
         
         try {
 
@@ -30,21 +28,15 @@ const params = qs.stringify({
                 maxRedirects: 0
             }).catch((e) => {
                 // We read the cookie manually from the 302 response
-                Cookie = e.response.headers['set-cookie'][0].split(';')[0];
+                if(e.response)
+                    Cookie = e.response.headers['set-cookie'][0].split(';')[0];
             });
             
             // Request exam data
-            const { data: { cuestionario } } = await axios.get('https://sedeapl.dgt.gob.es/WEB_EXAM_AUTO/service/RecuperarAspiranteServlet', {headers: {cookie: Cookie}});
+            const { data } = await axios.get('https://sedeapl.dgt.gob.es/WEB_EXAM_AUTO/service/RecuperarAspiranteServlet', {headers: {cookie: Cookie}});
 
-            // Save exam if it doesn't exist
-            const examPath = `exams/${cuestionario.id}.json`;
-            
-            if(!fs.existsSync(`exams/${cuestionario.id}.json`)) {
-                fs.writeFileSync(examPath, JSON.stringify(cuestionario.preguntas, null, 2), {encoding: 'utf-8'});
-            }
-
+            return data;
         } catch (e) {
-            console.error(e);
+            throw e;
         }
     }
-)()
