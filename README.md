@@ -3,7 +3,7 @@
 ## DGT exam model downloader
 
 
-This script allows to download exam models from DGT (dirección general de tráfico) `https://sede.dgt.gob.es/es/permisos-de-conducir/test-de-examenes/`
+This script allows to download exam models from DGT (dirección general de tráfico) https://sede.dgt.gob.es/es/permisos-de-conducir/test-de-examenes/
 
 It was done by me from scratch by reverse-engineering website. I am currently studying for the driving license, so it should be useful to get up to date questions from real exams, and also, as online test websites are not mobile-friendly, develop a new front-end.
 
