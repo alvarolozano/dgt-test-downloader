@@ -35,8 +35,13 @@ export default async function getRandomExam() {
             // Request exam data
             const { data } = await axios.get('https://sedeapl.dgt.gob.es/WEB_EXAM_AUTO/service/RecuperarAspiranteServlet', {headers: {cookie: Cookie}});
 
+            for(const pregunta of data.cuestionario.preguntas) {
+                if(pregunta.urlImagen) pregunta.imagen = `https://sedeapl.dgt.gob.es/WEB_EXAM_AUTO/ServletImagen?nameImagen=${pregunta.urlImagen}`
+                delete pregunta.urlImagen;
+            }
+
             return data;
         } catch (e) {
             throw e;
         }
-    }
+}
