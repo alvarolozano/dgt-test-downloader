@@ -1,8 +1,13 @@
 > 30/05/2025
 > [EN]
-> The DGT changed their website, and this script is not mantained anymore. The alternative is to use our private API which is mantained: https://rapidapi.com/alvarolozano2000/api/examenes-dgt
+> The DGT changed their website, and this script is not mantained anymore. The alternative is to use our private API which is mantained: 
+> * https://apify.com/alvarolozano/preguntas-dgt
+> * https://rapidapi.com/alvarolozano2000/api/examenes-dgt
+
+
 > [ES]
-> La DGT ha cambiado su web, y este script ya no funciona. La alternativa es usar nuestra API privada que mantenemos actualizada: https://rapidapi.com/alvarolozano2000/api/examenes-dgt
+> La DGT ha cambiado su web, y este script ya no funciona. La alternativa es usar nuestra API privada que mantenemos actualizada: > * https://apify.com/alvarolozano/preguntas-dgt
+> * https://rapidapi.com/alvarolozano2000/api/examenes-dgt
 
 ### Author: Álvaro Lozano
 
