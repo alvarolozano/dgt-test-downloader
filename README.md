@@ -6,7 +6,8 @@
 
 
 > [ES]
-> La DGT ha cambiado su web, y este script ya no funciona. La alternativa es usar nuestra API privada que mantenemos actualizada: > * https://apify.com/alvarolozano/preguntas-dgt
+> La DGT ha cambiado su web, y este script ya no funciona. La alternativa es usar nuestra API privada que mantenemos actualizada: 
+> * https://apify.com/alvarolozano/preguntas-dgt
 > * https://rapidapi.com/alvarolozano2000/api/examenes-dgt
 
 ### Author: Álvaro Lozano
